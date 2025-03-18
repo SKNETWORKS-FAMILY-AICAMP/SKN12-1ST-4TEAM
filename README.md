@@ -150,14 +150,14 @@ E-나라지표
 
 
 1. car_registration
-![국토누리명세서](table_specification/테이블명세_car_registration01.png)
-![국토누리명세서](table_specification/테이블명세_car_registration02.png)
+![국토누리명세서](images/table_specification/테이블명세_car_registration01.png)
+![국토누리명세서](images/table_specification/테이블명세_car_registration02.png)
 3. car_registration_chart
-![나라지표명세서](table_specification/테이블명세_car_registration_chart.png)
+![나라지표명세서](images/table_specification/테이블명세_car_registration_chart.png)
 5. hyundai_faq
-![현대FAQ명세서](table_specification/테이블명세_hyundai_faq.png)
+![현대FAQ명세서](images/table_specification/테이블명세_hyundai_faq.png)
 6. kia_faq
-![기아FAQ명세서](table_specification/테이블명세_kia_faq.png)
+![기아FAQ명세서](images/table_specification/테이블명세_kia_faq.png)
 
 ---
 
