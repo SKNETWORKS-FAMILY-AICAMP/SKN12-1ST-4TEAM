@@ -149,13 +149,14 @@ E-나라지표
 
 
 1. car_registration
-![국토누리명세서]()   
-2. car_registration_chart
-![나라지표명세서]()
-3. hyundai_faq
-![현대FAQ명세서]()
-4. kia_faq
-![기아FAQ명세서]()
+![국토누리명세서](table_specification/테이블명세_car_registration01.png)
+![국토누리명세서](table_specification/테이블명세_car_registration02.png)
+3. car_registration_chart
+![나라지표명세서](table_specification/테이블명세_car_registration_chart.png)
+5. hyundai_faq
+![현대FAQ명세서](table_specification/테이블명세_hyundai_faq.png)
+6. kia_faq
+![기아FAQ명세서](table_specification/테이블명세_kia_faq.png)
 
 ---
 
@@ -181,8 +182,8 @@ E-나라지표
 
 | 팀원 | 역할 | 소감 |
 |:----:|:----:|:----|
-| 이석원 | StreamLit | (여기에 소감 입력) |
+| 이석원 | StreamLit | 프로젝트는 항상 나에게 부족함을 느끼게 해주지만 원동력을 주기도 한다.<br>2일이라는 짧은 시간이었지만 팀원분들과 같이 작품을 완성했다는 점에서 이번 프로젝트는 성공적이었다고 생각한다.<br>좋은 팀원분들이라 좋았고 많은 것을 배웠다. |
 | 이용규 | Crawling | (여기에 소감 입력) |
-| 이정민 | Crawling | (여기에 소감 입력) |
-| 이준석 | Mapping | (여기에 소감 입력) |
+| 이정민 | Crawling | 전 말하는 감자여서 웹크롤링 하나 맡은 것도 힘들었는데 옆에서 많이 도와주셔서 잘 해낼 수 있었습니다.<br>하루종일 붙잡고 있어도 결국 해결하고 퇴근하니 기분 좋더라고요.<br>그리고 능력자 팀원분들이 덕분에 프로젝트를 잘 마칠 수 있었던 것 같습니다.  모두 수고하셨습니다! |
+| 이준석 | Mapping | 다들 2주 수업하고 첫 프로젝트라곤 믿을 수 없을 정도로 날아다니셔서 따라가기에도 벅찼지만<br>그 과정에서 내가 모르는 부분을 찾아가며 맡은 부분을 끝내고, 각자 협력하며 결과물을 합치는 과정에서<br>나 역시 성장함을 느낄 수 있게 되어 보람차다 |
 | 박슬기 | PM, Crawling | 전체적인 기획 및 데이터 크롤링, 팀원 서포트를 담당했습니다.<br>국토누리 사이트 크롤링이 제일 어려웠습니다.. 누가 만들었냐 진짜.. <br>어쩌다보니 PM역할을 맡게 되었는데, 믿고 잘 따라와준 팀원들에게 정말 감사합니다.<br> 담부터는 그냥 팀원할래요...ㅠㅠ|
